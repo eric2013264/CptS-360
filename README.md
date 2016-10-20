@@ -4,7 +4,7 @@ The Labs and the Final Project for CptS 360 Spring 2016 semester. CptS 360 was t
 
 The goal was to build a ext2 file system with C that handled basic unix commands. Each lab built upon it.
 
-Text Book (written by Professor K.C. Wang. himself): Design and Implementation of the MTX Operating System. (K.C. Wang, Springer International AG, 2015)
+Textbook (written by Professor K.C. Wang. himself): Design and Implementation of the MTX Operating System. (K.C. Wang, Springer International AG, 2015)
 Website: http://eecs.wsu.edu/~cs360/
 
 All programming assignments are password protected. Please don't plagiarize. 
