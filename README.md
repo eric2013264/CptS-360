@@ -3,7 +3,7 @@
 The Labs and the Final Project for CptS 360 Spring 2016 semester. CptS 360 was a daunting systems programming class taught by the esteemed Professor K.C. Wang that had a drop rate of 50%.
 
 ## Course Contents
-- **Introduction to Unix/Linux and MTX Operating Systems**. 
+- **Introduction to Unix/Linux and MTX Operating Systems** 
      Files, directories, special files, logical organization of 
      Unix file system; user account, login process and command
      execution.
