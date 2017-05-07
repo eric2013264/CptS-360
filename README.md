@@ -57,9 +57,9 @@ The Labs and the Final Project for CptS 360 Spring 2016 semester. CptS 360 was a
      routing; protocols, client and server; ftp, rlogin, nfs, 
      and nis, Socket Programming. 
 
-Project: Implement an ETX2 File System Simulator
+- **Project** Implement an ETX2 File System Simulator
 
-Misc Topics: sh and Perl programming, Unix system adm.
+- **Misc Topics** sh and Perl programming, Unix system adm.
 
 
 
